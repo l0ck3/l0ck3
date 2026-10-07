@@ -6,6 +6,6 @@ yann@irbah.dev · [Site Web](https://irbah.dev) · [LinkedIn](https://www.linked
 
 ---
 
-18 years in tech. Along the way, I've built software, infrastructure, teams, and developers.fractional CTO.
+18 years in tech. Along the way, I've built software, infrastructure, teams, and developers.
 
 yann@irbah.dev · [Website](https://irbah.dev/en/) · [LinkedIn](https://www.linkedin.com/in/yannirbah) · [Book a call](https://cal.com/l0ck3/cto)
